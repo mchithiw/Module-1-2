@@ -23,6 +23,9 @@ $(function () {
 			//form list element for each book
 			//var content = "<div class=\"book\" id=\"" + isbn + "\"></div>";
 			//$(".main-list").append(content);
+			
+			$(".title").html(title);
+			$("title").html(title);
 
 			var left = ".main-img";
 			var right = ".main-content";
